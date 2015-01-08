@@ -1,5 +1,5 @@
 wp-jogging
 ==========
 
-Daily coding for wordpress
+Daily coding for WordPress
 
